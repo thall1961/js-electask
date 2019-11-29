@@ -9,9 +9,12 @@ So that's the plan with this, recreate Electask with JS and learn the ins and ou
 ### TODO
 
 - [x] Setup API and connect to React App, display static data
-- [ ] Connect API to mongodb and save data
-- [ ] Refactor routing and controllers
+- [x] Connect API to mongodb and save data
+- [x] Refactor routing and controllers
+- [ ] Implement testing for basic api and react features
+- [ ] Finish dashboard
+- [ ] Work on calendar
+- [ ] Auth and users
+- [ ] More testing
 
-client work?
-auth?
 ...
